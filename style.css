@@ -1,0 +1,49 @@
+body {
+    text-align: center;
+}
+
+.box {
+    display: inline-block;
+}
+
+.a {
+    cursor: pointer;
+    padding: 0 10px;
+    text-align: left;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    transition-duration: 500ms;
+    border-radius: 0 10px 10px 0;
+}
+
+.b {
+    font-size: 40px;
+    text-align: left;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+.x {
+    color: #ef4958;
+    border-left: 5px solid #ef4958;
+}
+
+.x:hover {
+    background: #dcf0f1;
+}
+
+.y {
+    color: #54c4f0;
+    border-left: 5px solid #54c4f0;
+}
+
+.y:hover {
+    background: #dcf0f1;
+}
+
+.z {
+    color: #b3333a;
+    border-left: 5px solid #b3333a;
+}
+
+.z:hover {
+    background: #dcf0f1;
+}
